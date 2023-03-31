@@ -11,6 +11,8 @@ public class ramazan {
         switch ("DayOfWeek") {
             case "Monday":
                 break;
+            case "Tuesday":
+                break;
         }
 
     }
