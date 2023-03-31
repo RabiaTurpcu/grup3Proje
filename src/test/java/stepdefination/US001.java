@@ -18,6 +18,4 @@ public class US001 {
     public void userGoesToRegisterpageAndUserIsLoggedInSSN() {
     }
 
-
-
 }
